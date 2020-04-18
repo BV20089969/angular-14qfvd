@@ -1,0 +1,38 @@
+.navigate
+{
+  border-radius: 1px;
+  background-color:#0061e0c9;
+  border: none;
+  color: white;
+  cursor: pointer; 
+  width: 100%;
+  height:100%; 
+}
+.cancel
+{
+   border-radius: 20px;
+  background-color:#db3309;
+  border: none;
+  color: white;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  cursor: pointer;
+}
+.edit
+{
+  border-radius: 20px;
+  background-color:#db6809;
+  border: none;
+  color: white;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  cursor: pointer;  
+}
+.display {
+  position: absolute;
+  top :45%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
